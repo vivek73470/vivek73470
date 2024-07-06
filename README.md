@@ -1,11 +1,12 @@
 ![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I am Vivek Yadav</h1>
-<h3 align="center"> Web Developer</h3>
+<h3 align="center">Aspiring Full Stack Web Developer</h3>
 <p align="center">
 -   🌱 <b><I>I CODE, CONNECT & CREATE</I></b> <br/>
 -   🤝 Any type of Project Proposal is invited. <br/>
 -   ⚡ For fun, I socialize on Discord. <br/>
+- Half way to Full Stack MERN Dev.
 </p>
 
 <div align='center'>
@@ -28,6 +29,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.JS-9400d3?style=for-the-badge&logo=bootstrap&logoColor=green" />
+  <img src="https://img.shields.io/badge/MONGODB-9400d3?style=for-the-badge&logo=bootstrap&logoColor=red" />
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-9400d3?style=for-the-badge&logo=bootstrap&logoColor=violet" />
  
